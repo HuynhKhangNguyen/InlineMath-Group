@@ -1,0 +1,6 @@
+interface:
+  display_name: "InlineMath Grouping Worker"
+  short_description: "Một file, script và review theo phạm vi"
+  default_prompt: "Dùng $inline-math-grouping-worker để xử lý đúng một file theo manifest, dùng script/checkpoint và trả final contract ngắn."
+policy:
+  allow_implicit_invocation: true

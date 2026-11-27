@@ -1,0 +1,6 @@
+interface:
+  display_name: "InlineMath Control Center"
+  short_description: "Điều phối gọn: manifest, checkpoint và kết quả"
+  default_prompt: "Dùng $inline-math-control-center để giao manifest ngắn cho worker của từng file, dùng checkpoint và tổng hợp kết quả; không lặp semantic review."
+policy:
+  allow_implicit_invocation: true
